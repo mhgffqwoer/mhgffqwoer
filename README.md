@@ -1,16 +1,19 @@
-## Hi there 👋
+### Привет 👋 Я Арсений
 
-<!--
-**mhgffqwoer/mhgffqwoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Backend-разработчик на Go
 
-Here are some ideas to get you started:
+🎓 Студент Университета ИТМО (Информационные системы и технологии).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Работал Go-разработчиком в АО "ТБанк" и в ООО «Мастерская современных интернет коммуникаций».
+
+- ⚙️ Пишу на: `.go`, а так же `.cpp`, `.java`, `.cs`
+- 📚 Технологии:
+  - 🗄️ Базы данных: PostgreSQL, MySQL, Redis
+  - 📨 Брокеры сообщений: Kafka, RabbitMQ
+  - 🔌 API: gRPC, HTTP (REST API), GraphQL
+  - 🐳 Контейнеры и оркестрация: Docker, Kubernetes
+  - 📊 Мониторинг и логи: Prometheus, Grafana, Loki
+  - 🔍 Трейсинг: OTel, Jaeger
+- 🐧 Операционная система: Linux
+
+💬 Для связи со мной можете писать мне в [телеграм](https://t.me/mhgffqwoer)
